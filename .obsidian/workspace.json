@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "792c1d14efce0e80",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c88f0785b11adc1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57f7dbe62e39d844",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "2676d9e5295c109a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Django 설치 및 프로젝트 생성.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d89ae8a0e085ad31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Django - 라우팅.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bcaba4e55dafb58f",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc60dcb8a04118e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad83ac26441ed709",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "08c0e90e3ccbe154",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4ff3f5b520592615",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "79a08c26d2c1bee5",
+    "type": "split",
+    "children": [
+      {
+        "id": "e61e268c6e459ad8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5b739eb8d87b0a2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Django - 라우팅.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "86daa020bc23d105",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Django - 라우팅.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ae48c380e4e3c3d5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9d9df56fa98dff84",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Django - 라우팅.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "d89ae8a0e085ad31",
+  "lastOpenFiles": [
+    "Django 설치 및 프로젝트 생성.md",
+    "Django - 라우팅.md",
+    "Pasted image 20231025213206.png",
+    "Pasted image 20231025212742.png",
+    "Pasted image 20231025212433.png"
+  ]
+}
